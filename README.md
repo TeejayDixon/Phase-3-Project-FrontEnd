@@ -1,6 +1,7 @@
 # Playlistr
 
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/103458131/204693335-d73de0ed-1a1d-43c3-a44a-99c9b4495e7f.gif)
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/103458131/204694866-d961e367-6bd3-4658-8fec-7ea635935dd4.gif)
+
 
 ## Introduction 
 Need different playlist for different occasions? Here is the perfect app just for you!
